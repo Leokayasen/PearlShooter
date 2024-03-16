@@ -1,4 +1,4 @@
-# UntitledUnderwaterPearlShooter
+# PearlShooter
 Basic physics simulation presenting effects of particles underwater (with added features ofc!)
 
 ## What's new?
