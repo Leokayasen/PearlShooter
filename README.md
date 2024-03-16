@@ -8,9 +8,13 @@ While it is a shame, as I thoroughly enjoyed developing this, I have included th
 
 ## How do I play?
 First, download the zip folder onto your desktop or games folder.
+
 Second, extract the zip - Make sure you do not change the extracted folder name or any of its contents.
+
 Third, open the folder and find the PearlShooter.exe file (it may be named slightly differently)
+
 Without changing anything, run the executable.
+
 Now, enjoy the very limited features of this demo!
 
 ## Controls
